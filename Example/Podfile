@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Reveal-iOS_Tests' do
+  pod 'Reveal-iOS', :path => '../'
+  
+  
+end

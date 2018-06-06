@@ -1,0 +1,16 @@
+PODS:
+  - Reveal-iOS (4)
+
+DEPENDENCIES:
+  - Reveal-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  Reveal-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Reveal-iOS: a7e96449fb6970a3dbdba992c42928fd6957e426
+
+PODFILE CHECKSUM: 64eec12b7d7ca4f8b68bc7f2d996638e5e8ba1fc
+
+COCOAPODS: 1.5.0
