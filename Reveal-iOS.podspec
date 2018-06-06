@@ -21,5 +21,6 @@ Pod::Spec.new do |s|
   s.compiler_flags = '-ObjC'
   s.requires_arc = 'false'
   s.libraries = 'z'
+  s.xcconfig = {'LD_RUNPATH_SEARCH_PATHS' => '$(inherited) @executable_path/Frameworks @loader_path/Frameworks'}
   
 end

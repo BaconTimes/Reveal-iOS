@@ -22,5 +22,8 @@
   "vendored_frameworks": "Reveal-iOS/Assets/*.framework",
   "compiler_flags": "-ObjC",
   "requires_arc": "false",
-  "libraries": "z"
+  "libraries": "z",
+  "xcconfig": {
+    "LD_RUNPATH_SEARCH_PATHS": "$(inherited) @executable_path/Frameworks @loader_path/Frameworks"
+  }
 }

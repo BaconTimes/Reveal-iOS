@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Reveal-iOS: a7e96449fb6970a3dbdba992c42928fd6957e426
+  Reveal-iOS: 21f8d4502eb4e37a8146e67dc96cfe40bbff51ee
 
 PODFILE CHECKSUM: 64eec12b7d7ca4f8b68bc7f2d996638e5e8ba1fc
 
