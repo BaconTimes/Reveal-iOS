@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.description      = 'Reveal brings powerful runtime view debugging to iOS developers.'
   s.homepage         = 'https://github.com/xiaolei0808/Reveal-iOS'
   s.author           = { '金小白' => 'leixjin@gmail.com' }
-  s.source           = { :git => 'git@github.com:xiaolei0808/Reveal-iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xiaolei0808/Reveal-iOS.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
   s.frameworks = 'CoreGraphics', 'CFNetwork', 'QuartzCore'
